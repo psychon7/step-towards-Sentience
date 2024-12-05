@@ -1,4 +1,4 @@
-# step-towards-sentence-
+# step-towards-sentience
 Some attempt towards making sentience 
 
 # Adaptive CartPole AI with Emotional Learning
